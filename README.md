@@ -1,4 +1,4 @@
 phonegap-demos
 ==============
 
-The house that demo apps built
+The house for demo applications built with PhoneGap
