@@ -21,27 +21,28 @@ Create a real, app-store-worthy application that utilizes most APIs.
 
 ### Possible Application Types
 
-1. game
+1. __game__
   * accelerometer
   * media
   * notification
   * events
 
-2. photosharing/editing
+2. __photosharing/editing__
   * camera
   * capture
   * contacts
   * geolocation
   * notification
 
-3. physical activity tracking
+3. __physical activity tracking__
   * geolocation
   * compass
   * capture
   * media
   * contacts
 
-4. _to-do list_ this is the one that Joni will tackle first, as it can demonstrate most APIs and is an common/understood app type.
+4. __to-do list__ 
+This is the one that Joni will tackle first, as it can demonstrate most APIs and is an common/understood app type.
   * storage
   * device
   * events
