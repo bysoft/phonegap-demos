@@ -46,13 +46,13 @@ This is the one that Joni will tackle first, as it can demonstrate most APIs and
   * storage
   * device
   * events
-  * connection
-  * notification
-  * camera/capture
-  * media/capture
-  * contacts
-  * geolocation
-  * accelerometer
+  * connection (sync to cloud)
+  * notification (due date/time notification)
+  * camera/capture (take a photo to attach to a task in list)
+  * media/capture (record audio to attached to a task in list)
+  * contacts (share a list)
+  * geolocation (geotag a task/photo)
+  * accelerometer (tilt-scolling, shake to clear)
   * file
   * *missing*: compass  : (
 
