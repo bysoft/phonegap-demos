@@ -49,7 +49,7 @@ This is the one that Joni will tackle first, as it can demonstrate most APIs and
   * connection (sync to cloud)
   * notification (due date/time notification)
   * camera/capture (take a photo to attach to a task in list)
-  * media/capture (record audio to attached to a task in list)
+  * media/capture (record audio to attach to a task in list)
   * contacts (share a list)
   * geolocation (geotag a task/photo)
   * accelerometer (tilt-scolling, shake to clear)
