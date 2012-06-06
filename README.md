@@ -3,9 +3,9 @@ phonegap-demos
 
 The haus for demo applications built with PhoneGap
 
-# Reason
+# Purpose
 
-To provide example applications of PhoneGap in use, primarily as a learning tool for those devloping mobile applications with the framework.
+To provide example applications of PhoneGap in use, primarily as a learning tool for those developing mobile applications with the framework.
 
 # Possible Approaches
 
