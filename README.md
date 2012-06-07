@@ -41,8 +41,8 @@ Create a real, app-store-worthy application that utilizes most APIs.
   * media
   * contacts
 
-4. __to-do list__ 
-This is the one that Joni will tackle first, as it can demonstrate most APIs and is an common/understood app type.
+4. <p style="color:blue">__to-do list__ 
+This is the one that Joni will tackle first, as it can demonstrate most APIs and is an common/understood app type.</p>
   * storage
   * device
   * events
